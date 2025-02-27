@@ -7,7 +7,7 @@ I’m a 2nd year B-Tech Student. I love learning real life applications and buil
 
 🔭 I’m currently working on [Current Project or Focus]
 
-🌱 I’m currently learning [New Skill or Technology]
+🌱 I’m currently learning [New Skill or Technology].......
 
 👯 I’m looking to collaborate on [Type of Projects, e.g., open-source, AI/ML, etc.]
 
