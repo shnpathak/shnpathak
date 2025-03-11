@@ -24,6 +24,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shnpathak&icon=4&color=13)](https://visitcount.itsvg.in)
 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Ajitashwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
